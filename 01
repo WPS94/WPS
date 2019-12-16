@@ -1,0 +1,19 @@
+# EXTM3U
+#EXTINF: -1 type = "stream" tvg-id = "SPORTV 1" tvg-logo = "https://tinyurl.com/logocanais1" group-title = "CANAIS", SPORTV 1
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv_91dfde1d_feadec941adfe288f0def5628c965fd437e8f3ef/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "ESPN BR" tvg-logo = "https://tinyurl.com/logocanais1" group-title = "CANAIS", ESPN BR
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/espnbrasil_2a459380_d740832e964369036f13c48761b6de7b7b070576/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "FOX SPORTS" tvg-logo = "https://tinyurl.com/logocanais1" group-title = "CANAIS", FOX SPORTS
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_4ad563be9b1c709072055d6d15c01e174397b8ad/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "TNT" tvg-logo = "https://tinyurl.com/logocanais1" group-title = "CANAIS", TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_6adb72f9389e49c5a0f9eb657a5dbea23f0d9d62/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "FOX PREMIUM 1" tvg-logo = "https://tinyurl.com/logocanais1" group-title = "CANAIS", FOX PREMIUM 1
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_5a26fb078a81bf9cde82330d7f7c2fab0c9b06d0/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "VIVA" tvg-logo = "https://tinyurl.com/logocanais1" group-title = "CANAIS", VIVA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/viva_5d00f2c6_aa46e61e58333d408d51649880e71bcbd0a3f771/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "TELECINE ACTION" tvg-logo = "https://tinyurl.com/logocanais1" group-title = "CANAIS", TELECINE ACTION
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_bd5e018ef20374bf6dd27a8ad472d17f01f5759a/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "TELECINE PIPOCA" tvg-logo = "https://tinyurl.com/logocanais1" group-title = "CANAIS", TELECINE PIPOCA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_87767e74175e18ffd3450b5b62f901e568a4ac49/playlist.m3u8
+#EXTINF: -1 type = "stream" tvg-id = "TELECINE PREMIUM" tvg-logo = "https://tinyurl.com/logocanais1" group-title = "CANAIS", TELECINE PREMIUM
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_10dcc7b98971195d107e8ac11309ff2ed4afbf79/playlist.m3u8
